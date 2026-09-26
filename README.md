@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning coding and programming 
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me: mananbhardwaj009@gmail.com
-- 😄 Pronouns: Default
-- ⚡ Fun fact: i will be starting collage at 15 years of age
+- 😄 Pronouns: him
+
 
 <!---
 RealMananBhardwaj/RealMananBhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
